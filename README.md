@@ -1,2 +1,2 @@
 # Deep-Learning-School
-Two semesters Notebooks of the Deep Learning School course
+Two semesters practics of the Deep Learning School course
